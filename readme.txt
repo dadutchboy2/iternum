@@ -44,4 +44,4 @@ function list:
 -module.root(a, b?): b-th or square root(a)
 -module.log(a, b?): base b or natural log(a)
 -module.hyp(a, b, c): a[c]b (note: c must be an integer >= 0, a and b must be an integer >= 0 at c >= 4)
--module.g(a): grahams function(a)
+-module.g(a): grahams function(a) (note: a must be an integer >= 1)
