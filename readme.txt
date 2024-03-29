@@ -1,5 +1,5 @@
 iternum: the ULTIMATE!!! number library
-maximum value: more than G(64), more than TREE(3), more than TREE(n) repeated TREE(G(64)) times, it never ends!!! (disclaimer: TREE function not implemented yet)
+maximum value: more than G(64), more than G(G(64)), more than G(n) repeated G(G(64)) times, it never ends!!!
 made in roblox lua in a module script
 
 infinity is in its number form
